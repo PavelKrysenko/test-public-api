@@ -1,0 +1,11 @@
+{
+	"data":[
+		{country: "Ukraine", city: "Kyiv"},
+		{country: "Ukraine", city: "Lviv"},
+		{country: "Ukraine", city: "Odesa"},
+		{country: "Pakistan", city: "Karachi"},
+		{country: "Pakistan", city: "Lahore"},
+		{country: "Pakistan", city: "Faisalabad"},
+		{country: "USA", city: "New York"}
+	  ]
+}
