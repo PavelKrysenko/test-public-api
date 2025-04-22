@@ -1,11 +1,24 @@
-{
-	"data":[
-		{country: "Ukraine", city: "Kyiv"},
-		{country: "Ukraine", city: "Lviv"},
-		{country: "Ukraine", city: "Odesa"},
-		{country: "Pakistan", city: "Karachi"},
-		{country: "Pakistan", city: "Lahore"},
-		{country: "Pakistan", city: "Faisalabad"},
-		{country: "USA", city: "New York"}
-	  ]
-}
+[{
+        country: 'Ukraine',
+        cities: [{
+            name: 'Kyiv'
+        },{
+            name: 'Lviv'
+        },{
+            name: 'Odesa'
+        }]
+    }, {
+        country: 'Pakistan',
+        cities: [{
+            name: 'Karachi'
+        },{
+            name: 'Lahore'
+        },{
+            name: 'Faisalabad'
+        }]
+    }, {
+        country: 'USA',
+        cities: [{
+            name: 'New York'
+        }]
+    }]
